@@ -1,0 +1,6 @@
+tornado>=4.1
+six>=1.9.0
+flufl.enum>=4.0.1
+futures>=3.0.1
+toro>=0.8
+coloredlogs>=0.8

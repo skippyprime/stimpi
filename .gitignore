@@ -1,0 +1,5 @@
+*.pyc
+
+# Ignore Mac OSX files
+._*
+.DS_Store
